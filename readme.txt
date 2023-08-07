@@ -1,0 +1,4 @@
+this is a sliding puzzle game. The game area consists of 99 tiles and one empty sliding area. You can create your own folder and put your favorite pictures there. 
+technic: Program gets an image resize 800x800 and slices to 10x10 -1 slices. so when you click on tile, it automatically moves to empty area. I added a timer and whenever you press new game button you can reset game with a desired picture. you can use show hide button to see original pictures  as reference. 
+the pictures are taken from gencraft, some of them i created by using gencraft site. Background color is orange, but you can choose any color. 
+compact and good program. demonstrate how to make a nice sliding puzzle. 
