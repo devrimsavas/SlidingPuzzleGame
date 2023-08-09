@@ -1,0 +1,6 @@
+necessary update notes: 
+even if puzzle has 1 sliding tile, not all puzzles in axa-1 format solvable. so to make the puzzle solvable , i had to correct and updated the codes.I came to my mind 2 possible solution. first is create some preset tile allocation and hardcode them and program choose one of them. however, it would not be nice solution even if it was easy. and need to find always need preset settings for any size. so easy but not practical.  Second one  and which i applied here, called "inversions-based approach to determine the solvability of the puzzle "
+
+i had to read some document and needed create algorithm for this.  So first computer creates a random set and check if this allocation is solvable or not, if it is not then try to another random allocation. so on. Now this function and new method i added to main program made tile solvable 100%. this method works with 5x5 tiles. i hope it also works another tile sets too. 
+
+anyway thanks for the post which informed me about this problem. 
